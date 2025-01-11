@@ -20,7 +20,7 @@ I'm always keen to explore new technologies and refine my skills further.
 ## Problem-Solving Achievements
 
 - **Competitive Programming**:
-  - Achieved **1500+ rating** on CodeChef.
+  - I have achieved a **1600+ rating** on CodeChef, earning me the status of a **3-star coder** on the platform.
   - Secured **1600+ rating** on LeetCode.
   - Solved over **500+ problems** on platforms like LeetCode and CodeChef.
 - Strong foundation in **data structures and algorithms**, ensuring optimized and efficient solutions to challenging problems.
